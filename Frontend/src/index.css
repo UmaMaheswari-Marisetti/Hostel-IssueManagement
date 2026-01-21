@@ -1,0 +1,14 @@
+@import "tailwindcss";
+/* .btn-primary{
+ @apply px-6 py-2 rounded font-semibold transition hover:scale-105;
+}
+
+.badge{
+ @apply inline-block mt-2 px-2 py-1 rounded text-white text-xs;
+}
+.Pending{ @apply bg-red-500; }
+.In\ Progress{ @apply bg-yellow-500; }
+.Resolved{ @apply bg-green-500; } */
+.input{
+    @apply w-full rounded ;
+}
